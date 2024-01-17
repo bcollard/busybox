@@ -1,6 +1,6 @@
 all: container
 
-TAG = 1.0
+TAG = 1.1
 PREFIX = pileenretard/busybox
 
 container:
